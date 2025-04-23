@@ -1,0 +1,51 @@
+_repo: The-children-of-Dickens_75856
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Smith, Jessie Willcox
+    alias: Smith, Jessie Wilcox
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '7158'
+    url: http://www.gutenberg.org/2009/agents/7158
+    wikipedia: https://en.wikipedia.org/wiki/Jessie_Willcox_Smith
+creator:
+  authors:
+  - agent_name: Crothers, Samuel McChord
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '6347'
+    url: http://www.gutenberg.org/2009/agents/6347
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_McChord_Crothers
+  - agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75856'
+language: en
+pgterms:marc904: https://archive.org/details/childrenofdicken0000crot/page/n7/mode/2up
+pgterms:marc905: 20220617202230crothers
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Charlene Taylor, Laura Natal and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1925, pubdate 1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dickens, Charles, 1812-1870 -- Characters'
+- !lcc 'PR'
+- GITenberg
+title: The children of Dickens
+url: http://www.gutenberg.org/ebooks/75856
