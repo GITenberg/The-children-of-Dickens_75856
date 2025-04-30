@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '7158'
     url: http://www.gutenberg.org/2009/agents/7158
     wikipedia: https://en.wikipedia.org/wiki/Jessie_Willcox_Smith
+covers:
+- cover_type: archival
+  image_path: 75856-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Crothers, Samuel McChord
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75856#The-children-of-Dickens
 gutenberg_issued: '2025-04-14'
 gutenberg_type: Text
 identifiers:
